@@ -1,0 +1,4 @@
+# ignores these files and filetypes listed
+
+*.dat
+/results
