@@ -1,4 +1,4 @@
-# ignores these files and filetypes listed
+# ignores these files and filetypes and /directories  listed
 
 *.dat
 /results
